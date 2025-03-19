@@ -5,8 +5,8 @@
 # prevent it from being included in the site.
 
 main:
-  - title: "主页"
-    url: /
+  #- title: "主页"
+  #  url: /
     
   - title: "经历"
     url: /experience/
