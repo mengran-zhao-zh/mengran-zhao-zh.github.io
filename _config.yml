@@ -23,11 +23,11 @@ repository               : "mengran-zhao-zh.github.io"
 author:
   # Biographic information
   avatar           : "MZ.png"
-  name             : "Dr. Mengran Zhao"
+  name             : "赵梦然"
   pronouns         : "He/Him"  
-  bio              : "Research Fellow"
-  location         : "Belfast, Northern Ireland"
-  employer         : "Queen's University Belfast"
+  bio              : "研究员"
+  location         : "北爱尔兰，贝尔法斯特"
+  employer         : "贝尔法斯特女王大学"
   uri              : "https://pure.qub.ac.uk/en/persons/mengran-zhao"
   email            : "mengran.zhao@qub.ac.uk"
 
