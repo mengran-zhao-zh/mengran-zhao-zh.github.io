@@ -21,7 +21,7 @@ main:
     url: /awards/
     
   - title: "English Version"
-    url:
+    url: /englishversion/
     
   #- title: "Talks"
   #  url: /talks/    
