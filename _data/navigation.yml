@@ -5,23 +5,27 @@
 # prevent it from being included in the site.
 
 main:
-  - title: "Experience"
+  - title: "主页"
+    url: /experience/
+    
+  - title: "经历"
     url: /experience/
 
-  - title: "Projects"
+  - title: "项目"
     url: /projects/
     
-  - title: "Publications"
+  - title: "发表论文"
     url: /publications/
 
-  - title: "Patents"
+  - title: "专利"
     url: /patents/
 
-  - title: "Awards"
+  - title: "奖励"
     url: /awards/
     
   - title: "English Version"
-    url: https://mengran-zhao.github.io
+    url: "https://mengran-zhao.github.io"
+    external: true
     
   #- title: "Talks"
   #  url: /talks/    
