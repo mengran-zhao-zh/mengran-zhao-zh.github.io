@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+------
+
 教育经历
 ------
 * <b>工学博士</b> 2021
