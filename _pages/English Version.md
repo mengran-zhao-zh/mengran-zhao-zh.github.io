@@ -1,10 +1,10 @@
 ---
 layout: archive
 title: "English Version"
-permalink: /englishversion/
+permalink:
 author_profile: true
 redirect_from:
   - /resume
 ---
 
-<a href="https://mengran-zhao.github.io"></a>
+<a href="https://mengran-zhao.github.io/"></a>
