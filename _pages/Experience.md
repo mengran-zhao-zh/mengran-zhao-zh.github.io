@@ -1,30 +1,32 @@
 ---
 layout: archive
-title: "Experience"
+title: "经历"
 permalink: /experience/
 author_profile: true
 redirect_from:
-  - /mengran-zhao-zh.github.io
+  - /resume
 ---
 
 {% include base_path %}
 
-Education
+教育经历
 ------
-* Ph.D in Electronic Science and Technology, Xi'an Jiaotong University, 2021
-* B.S. in Information Engineering, Xi'an Jiaotong University, 2016
+* <b>工学博士</b> 2021
+  * 西安交通大学 电子科学与技术 (导师：陈娟、张安学、朱士涛)
+* <b>工学学士</b> 2016
+  * 西安交通大学 信息工程
 
-Work experience
+工作经历
 ------
-* 2022.10 - 2025.10: <b>Research Fellow</b>
+* <b>研究员</b> 2022.10-2025.10
   * School of Electronics, Electrical Engineering and Computer Science
-  * [Queen's University Belfast](https://www.qub.ac.uk/){:target="_blank"} (UK)
-  * Supervisor: [Professor Okan Yurduseven](https://sites.google.com/view/okanyurduseven/){:target="_blank"}
+  * [贝尔法斯特女王大学](https://www.qub.ac.uk/){:target="_blank"} (英国)
+  * 合作导师: [Okan Yurduseven](https://sites.google.com/view/okanyurduseven/){:target="_blank"} 教授
 
-* 2022.01 - 2022.09: <b>Assistant Professor</b>
-  * School of Information and Communication Engineering
-  * [Xi'an Jiaotong University](https://www.xjtu.edu.cn){:target="_blank"} (China)
-  * Supervisor: [Professor Anxue Zhang](https://gr.xjtu.edu.cn/web/anxuezhang){:target="_blank"}
+* <b>助理教授</b> 2022.01-2022.09
+  * 信息与通信工程学院
+  * [西安交通大学](https://www.xjtu.edu.cn){:target="_blank"} (中国)
+  * 合作导师: [张安学](https://gr.xjtu.edu.cn/web/anxuezhang){:target="_blank"} 教授
   
 <!-- Skills
 ======
