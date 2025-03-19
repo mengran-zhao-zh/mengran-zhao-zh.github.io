@@ -11,7 +11,7 @@ locale                   : "zh-CN"
 site_theme               : "_default"  # "_default" for Light Theme & "_dark" for Dark Theme
 title                    : ":mortar_board: 个人主页"
 title_separator          : "-"
-name                     : &name "Mengran Zhao"
+name                     : &name "赵梦然"
 description              : &description "Research Fellow at QUB"
 url                      : https://mengran-zhao-zh.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
