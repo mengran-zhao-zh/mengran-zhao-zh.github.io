@@ -12,9 +12,12 @@ redirect_from:
 教育经历
 ------
 * <b>工学博士</b> 2021
-  * 西安交通大学 电子科学与技术 (导师：陈娟、张安学、朱士涛)
+  * 电子科学与技术
+  * 西安交通大学
+  * 导师：[陈娟](https://gr.xjtu.edu.cn/en/web/chen_juan_0201){:target="_blank"} 教授、[张安学] (https://gr.xjtu.edu.cn/web/anxuezhang){:target="_blank"} 教授、[朱士涛](https://gr.xjtu.edu.cn/en/web/shitaozhu){:target="_blank"} 研究员
 * <b>工学学士</b> 2016
-  * 西安交通大学 信息工程
+  * 信息工程
+  * 西安交通大学 
 
 工作经历
 ------
