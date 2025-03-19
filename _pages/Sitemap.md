@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Publication Overview"
+title: "论文列表"
 permalink: /sitemap/
 author_profile: true
 ---
