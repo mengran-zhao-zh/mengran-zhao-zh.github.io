@@ -6,7 +6,7 @@
 
 main:
   - title: "主页"
-    url: /experience/
+    url: /
     
   - title: "经历"
     url: /experience/
