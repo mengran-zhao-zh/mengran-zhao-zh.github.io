@@ -4,7 +4,7 @@ title: "Experience"
 permalink: /experience/
 author_profile: true
 redirect_from:
-  - /mengran-zhao-zh.github.io/resume
+  - /mengran-zhao-zh.github.io
 ---
 
 {% include base_path %}
