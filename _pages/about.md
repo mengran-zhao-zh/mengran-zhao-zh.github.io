@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "个人信息"
+title: "个人信息 <img src='/images/sticker_6.webp' alt='Animated Icon' style='width: 50px; height: auto;' />"
 author_profile: true
 redirect_from: 
   - /about/
