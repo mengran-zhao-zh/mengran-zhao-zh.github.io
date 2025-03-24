@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "专利"
+title: "专利 <img src='/images/sticker_4.webp' alt='Animated Icon' style='width: 50px; height: auto;' />"
 permalink: /patents/
 author_profile: true
 redirect_from:
