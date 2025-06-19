@@ -12,7 +12,7 @@ redirect_from:
 本硕博均毕业于[西安交通大学](https://www.xjtu.edu.cn){:target="_blank"}，在2016年、2021年分别获工学学士学位(信息工程)及工学博士学位(电磁场与微波技术)，导师为[陈娟](https://gr.xjtu.edu.cn/en/web/chen_juan_0201){:target="_blank"}教授, [张安学](https://gr.xjtu.edu.cn/en/web/anxuezhang){:target="_blank"}教授和[朱士涛](https://gr.xjtu.edu.cn/en/web/shitaozhu){:target="_blank"}研究员。 2022年加入[贝尔法斯特女王大学](https://www.qub.ac.uk/){:target="_blank"}-[无线创新中心(CWI)](https://www.qub.ac.uk/research-centres/cwi/){:target="_blank"}，合作导师为[Okan Yurduseven](https://sites.google.com/view/okanyurduseven/){:target="_blank"}教授。本人研究方向为超材料理论，微波计算成像技术，随机辐射天线设计及多功能超表面应用等。
 
 目前担任多个国际知名期刊的审稿人，包括：  
-[IEEE Antennas and Wireless Propagation Letters](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7727){:target="_blank"} (中科院二区top-JCR Q2)，  
+[IEEE Antennas and Wireless Propagation Letters](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7727){:target="_blank"} (中科院二区top-JCR Q1)，  
 [IEEE Transactions on Antennas and Propagation](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=8){:target="_blank"} (中科院一区top-JCR Q1)，  
 [IEEE Transactions on Microwave Theory and Techniques](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=22){:target="_blank"} (中科院一区top-JCR Q1)，  
 [IEEE Internet of Things Journal](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6488907){:target="_blank"} (中科院一区top-JCR Q1)，  
