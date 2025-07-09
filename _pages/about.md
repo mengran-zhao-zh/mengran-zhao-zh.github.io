@@ -22,7 +22,7 @@ redirect_from:
 [IEEE Communications Letters](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=4234){:target="_blank"} (中科院三区-JCR Q2)，  
 [IEEE Sensors Journal](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7361){:target="_blank"} (中科院二区-JCR Q1)，  
 [IEEE Access](https://ieeexplore.ieee.org/xpl/aboutJournal.jsp?punumber=6287639){:target="_blank"} (中科院三区-JCR Q2)，  
-[Journal of Physics D: Applied Physics](https://iopscience.iop.org/journal/0022-3727){:target="_blank"}（中科院三区-JCR Q2）， 
+[Journal of Physics D: Applied Physics](https://iopscience.iop.org/journal/0022-3727){:target="_blank"}（中科院三区-JCR Q2），  
 [Progress In Electromagnetics Research](https://www.jpier.org/){:target="_blank"} (中科院一区-JCR Q1)，  
 [Nature Scientific Reports](https://www.nature.com/srep/){:target="_blank"} (中科院二区-JCR Q1)，  
 [Remote Sensing](https://www.mdpi.com/journal/remotesensing){:target="_blank"} (中科院二区-JCR Q1)，  
