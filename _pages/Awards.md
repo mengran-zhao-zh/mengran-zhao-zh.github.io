@@ -11,9 +11,14 @@ redirect_from:
 
 ------
 
+2026
+------
+* IEEE AWPL - **Lead Guest Editor** for Special Issue: *Toward Intelligent Electromagnetic Sensing: AI-Driven Hardware Designs and Applications*
+
 2025
 ------
 * IEEE AWPL - Outstanding Reviewer Award (24 out of 1800+)
+* IET MAP - **Lead Guest Editor** for Special Issue: *Advances in Electromagnetic Imaging and Applications: From Antennas and Hardware Layer to Signal Processing and Artificial Intelligence*
 
 2024
 ------
