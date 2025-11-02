@@ -23,6 +23,10 @@ redirect_from:
 
 工作经历
 ------
+* <b>特聘研究员</b> 2025.12-
+  * 信息与通信工程学院
+  * [西安交通大学](https://www.xjtu.edu.cn){:target="_blank"} (中国)
+    
 * <b>研究员</b> 2022.10-2025.10
   * School of Electronics, Electrical Engineering and Computer Science
   * [贝尔法斯特女王大学](https://www.qub.ac.uk/){:target="_blank"} (英国)
