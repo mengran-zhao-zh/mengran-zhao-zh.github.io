@@ -34,4 +34,4 @@ redirect_from:
 [IET Radar, Sonar & Navigation](https://digital-library.theiet.org/journal/iet-rsn){:target="_blank"}等，  
 并在2024，2025年被评为IEEE AWPL优秀审稿人(Outstanding Reviewer Award)。
 
-此外，我还担任了[19th European Conference on Antennas and Propagation (EuCAP 2025)](https://www.eucap2025.org){:target="_blank"}和[2025 IEEE International Symposium on Antennas & Propagation and North American Radio Science Meeting (AP-S/URSI2025)](https://2025.apsursi.org){:target="_blank"}的审稿人。
+此外，我还担任了[20th European Conference on Antennas and Propagation (EuCAP 2026)](https://www.eucap2026.org){:target="_blank"}, [19th European Conference on Antennas and Propagation (EuCAP 2025)](https://www.eucap2025.org){:target="_blank"}和[2025 IEEE International Symposium on Antennas & Propagation and North American Radio Science Meeting (AP-S/URSI2025)](https://2025.apsursi.org){:target="_blank"}的审稿人。
