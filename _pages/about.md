@@ -13,7 +13,7 @@ redirect_from:
 
 目前担任多个国际知名期刊的审稿人，包括：  
 [National Science Review](https://academic.oup.com/nsr){:target="_blank"}，  
-[Electromagnetic Science](https://www.emscience.org/){:target="_blank"}，   
+[Electromagnetic Science](https://www.emscience.org/){:target="_blank"}，  
 [IEEE Transactions on Antennas and Propagation](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=8){:target="_blank"}，  
 [IEEE Transactions on Microwave Theory and Techniques](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=22){:target="_blank"}，  
 [IEEE Internet of Things Journal](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6488907){:target="_blank"}，  
@@ -23,16 +23,16 @@ redirect_from:
 [IEEE Transactions on Terahertz Science and Technology](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=5503871){:target="_blank"}，  
 [IEEE Transactions on Radar Systems](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=9931145){:target="_blank"}，  
 [IEEE Transactions on Quantum Engineering](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=8924785){:target="_blank"}，  
-[IEEE/Optica Journal of Lightwave Technology](https://ieeephotonics.org/publications/ieee-optica-journal-of-lightwave-technology/){:target="_blank"}， 
-[IEEE Journal on Selected Areas in Communications](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=49){:target="_blank"}， 
-[IEEE Journal of Selected Topics in Electromagnetics, Antennas and Propagation](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=10918858){:target="_blank"}， 
-[IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=4609443){:target="_blank"}， 
-[IEEE Journal on Multiscale and Multiphysics Computational Techniques](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7274859){:target="_blank"}， 
+[IEEE/Optica Journal of Lightwave Technology](https://ieeephotonics.org/publications/ieee-optica-journal-of-lightwave-technology/){:target="_blank"}，  
+[IEEE Journal on Selected Areas in Communications](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=49){:target="_blank"}，  
+[IEEE Journal of Selected Topics in Electromagnetics, Antennas and Propagation](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=10918858){:target="_blank"}，  
+[IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=4609443){:target="_blank"}，  
+[IEEE Journal on Multiscale and Multiphysics Computational Techniques](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7274859){:target="_blank"}，  
 [IEEE Open Journal of Antennas and Propagation](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=8566058){:target="_blank"}，  
 [IEEE Open Journal of the Communications Society](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=8782661){:target="_blank"}，  
-[IEEE Antennas and Wireless Propagation Letters](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7727){:target="_blank"}， 
-[IEEE Microwave and Wireless Technology Letters](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=9944983){:target="_blank"}， 
-[IEEE Wireless Communications Letters](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=5962382){:target="_blank"}， 
+[IEEE Antennas and Wireless Propagation Letters](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7727){:target="_blank"}，  
+[IEEE Microwave and Wireless Technology Letters](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=9944983){:target="_blank"}，  
+[IEEE Wireless Communications Letters](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=5962382){:target="_blank"}，  
 [IEEE Communications Letters](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=4234){:target="_blank"}，  
 [IEEE Signal Processing Letters](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=97){:target="_blank"}，  
 [IEEE Sensors Journal](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7361){:target="_blank"}，  
@@ -42,7 +42,7 @@ redirect_from:
 [Physica Scripta](https://iopscience.iop.org/journal/1402-4896){:target="_blank"}，  
 [Microwave and Optical Technology Letters](https://onlinelibrary.wiley.com/journal/10982760){:target="_blank"}，  
 [Journal of Electromagnetic Waves and Applications](https://www.tandfonline.com/journals/tewa20){:target="_blank"}，  
-[Progress In Electromagnetics Research](https://www.jpier.org/){:target="_blank"}，   
+[Progress In Electromagnetics Research](https://www.jpier.org/){:target="_blank"}，  
 [IET Microwaves, Antennas & Propagation](https://digital-library.theiet.org/journal/iet-map){:target="_blank"}，  
 [IET Radar, Sonar & Navigation](https://digital-library.theiet.org/journal/iet-rsn){:target="_blank"}，  
 [Nature Scientific Reports](https://www.nature.com/srep/){:target="_blank"}，  
