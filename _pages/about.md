@@ -52,4 +52,8 @@ redirect_from:
 [Sensors](https://www.mdpi.com/journal/sensors){:target="_blank"}，  
 [Photonics](https://www.mdpi.com/journal/photonics){:target="_blank"}等。
 
-此外，我还担任了会议[20th European Conference on Antennas and Propagation (EuCAP 2027)](https://www.eucap2027.org/){:target="_blank"}, [20th European Conference on Antennas and Propagation (EuCAP 2026)](https://www.eucap2026.org){:target="_blank"}, [19th European Conference on Antennas and Propagation (EuCAP 2025)](https://www.eucap2025.org){:target="_blank"}和[2025 IEEE International Symposium on Antennas & Propagation and North American Radio Science Meeting (AP-S/URSI2025)](https://2025.apsursi.org){:target="_blank"}的审稿人。
+此外，我还担任会议审稿人:  
+[20th European Conference on Antennas and Propagation (EuCAP 2027)](https://www.eucap2027.org/){:target="_blank"},  
+[20th European Conference on Antennas and Propagation (EuCAP 2026)](https://www.eucap2026.org){:target="_blank"},  
+[19th European Conference on Antennas and Propagation (EuCAP 2025)](https://www.eucap2025.org){:target="_blank"},  
+[2025 IEEE International Symposium on Antennas & Propagation and North American Radio Science Meeting (AP-S/URSI2025)](https://2025.apsursi.org){:target="_blank"}等。
